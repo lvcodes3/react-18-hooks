@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "year": 2022,
+        "make": "Ford",
+        "model": "GT",
+        "horsepower": 647,
+        "img": "ford-gt.jpg"
+    },
+    {
+        "id": 2,
+        "year": 2024,
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "horsepower": 814,
+        "img": "lamborghini-revuelto.jpg"
+    },
+    {
+        "id": 3,
+        "year": 2024,
+        "make": "Porsche",
+        "model": "911 S/T",
+        "horsepower": 518,
+        "img": "porsche-911st.jpg"
+    }
+]
