@@ -8,6 +8,7 @@ import UseRef from "./UseRef/UseRef";
 import UseMemo from "./UseMemo/UseMemo";
 import UseCallback from "./UseCallback/UseCallback";
 import UseReducer from "./UseReducer/UseReducer";
+//import UseTransition from "./UseTransition/UseTransition";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/useMemo" element={<UseMemo />} />
           <Route path="/useCallback" element={<UseCallback />} />
           <Route path="/useReducer" element={<UseReducer />} />
+          {/*<Route path="/useTransition" element={<UseTransition />} />*/}
         </Routes>
       </BrowserRouter>
     </div>

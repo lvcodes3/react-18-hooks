@@ -25,6 +25,11 @@ const Home = () => {
       <button className="p-2 text-white text-lg font-semibold bg-sky-600 border-2 border-black rounded-2xl cursor-pointer">
         <Link to="/useReducer">useReducer</Link>
       </button>
+      {/*
+      <button className="p-2 text-white text-lg font-semibold bg-sky-600 border-2 border-black rounded-2xl cursor-pointer">
+        <Link to="/useTransition">useTransition</Link>
+      </button>
+      */}
     </main>
   );
 };
